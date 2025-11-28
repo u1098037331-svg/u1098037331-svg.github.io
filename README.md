@@ -1,6 +1,6 @@
 
 </head>
 <body>
-  <img src="Vaporeon.png" alt="Latest image">
+  <img src="Hands.png" alt="Latest image">
 </body>
 </html>
